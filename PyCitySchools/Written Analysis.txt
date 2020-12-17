@@ -1,11 +1,31 @@
 Observable Trends
 
 1. 
-The first observable trend can be seen on the 'Scores by School Spending' data frame. The data indicates that, on average, the schools that have the smallest budget per student (<$584) perform better in all calculated statistics: Average Math Score, Average Reading Score, % Passing Math, % Passing Reading and % Overall Passing. This trend continues along the budget per student categories. The schools with the second lowest budget range ($585-629) perform second best in each category on average. They are followed by the second highest budget range ($630-644), with these schools performing third best in each category, on average. Finally, the school with the highest budget range per student ($645-675) performed the worst across each category on average. 
+The first observable trend can be seen on the 'Scores by School Spending' data frame. The data indicates that, on average, the 
+schools that have the smallest budget per student (<$584) perform better in all calculated statistics: Average Math Score, 
+Average Reading Score, % Passing Math, % Passing Reading and % Overall Passing. This trend continues along the budget per student 
+categories. The schools with the second lowest budget range ($585-629) perform second best in each category on average. They are 
+followed by the second highest budget range ($630-644), with these schools performing third best in each category, on average. 
+Finally, the school with the highest budget range per student ($645-675) performed the worst across each category on average. 
 
 
 2. 
-The second trend considers the distinction between Charter schools and District schools. The 'Scores by School Type' data frame shows that, on average, Charter schools perform better than District schools in all measured categories: Average Math Score, Average Reading Score, % Passing Math, % Passing Reading and % Overall Passing. The difference between the two school types is particularly evident when looking at the % Passing Math and % Overall Passing columns. The % Passing Math column has Charter schools at 96.62%, with District schools at 66.55%. While the % Overall Passing column has Charter schools at 90.43%, with District schools at 53.67%. This distinction between the average performances of Charter schools and District schools is supported by the results of both the Top Performing Schools and Bottom Performing Schools data frames. These show that the top 5 performing schools are all Charter schools and the bottom 5 performing schools are all District schools, which is in line with the 'Scores by School Type' data frame.
+The second trend considers the distinction between Charter schools and District schools. The 'Scores by School Type' data frame 
+shows that, on average, Charter schools perform better than District schools in all measured categories: Average Math Score, 
+Average Reading Score, % Passing Math, % Passing Reading and % Overall Passing. The difference between the two school types is 
+particularly evident when looking at the % Passing Math and % Overall Passing columns. The % Passing Math column has Charter 
+schools at 96.62%, with District schools at 66.55%. While the % Overall Passing column has Charter schools at 90.43%, with 
+District schools at 53.67%. This distinction between the average performances of Charter schools and District schools is supported 
+by the results of both the Top Performing Schools and Bottom Performing Schools data frames. These show that the top 5 performing 
+schools are all Charter schools and the bottom 5 performing schools are all District schools, which is in line with the 'Scores by 
+School Type' data frame.
 
 3.
-A further trend, indicated by the 'Scores by School Size' data frame, is that larger schools, on average, perform worse than smaller schools in the categories: Average Math Score, Average Reading Score, % Passing Math, % Passing Reading and % Overall Passing. The data indicates that small schools (<1000 students) and medium sized schools (1000-2000 students) perform very similarly on average. In fact, there is less than 0.75% difference between the results of the two school types in both the % Passing Reading and the % Overall Passing columns. In the % Passing Math column there is less than 0.1% difference between the results of the two school types. However, comparatively, there is a greater difference between either of these school types and the large schools (between 2000 and 5000 students), across each category. The difference is particularly evident when considering the % Passing Math data and % Overall Passing data.
+A further trend, indicated by the 'Scores by School Size' data frame, is that larger schools, on average, perform worse than 
+smaller schools in the categories: Average Math Score, Average Reading Score, % Passing Math, % Passing Reading and % Overall 
+Passing. The data indicates that small schools (<1000 students) and medium sized schools (1000-2000 students) perform very 
+similarly on average. In fact, there is less than 0.75% difference between the results of the two school types in both the % 
+Passing Reading and the % Overall Passing columns. In the % Passing Math column there is less than 0.1% difference between the 
+results of the two school types. However, comparatively, there is a greater difference between either of these school types and 
+the large schools (between 2000 and 5000 students), across each category. The difference is particularly evident when considering 
+the % Passing Math data and % Overall Passing data.
