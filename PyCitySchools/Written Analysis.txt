@@ -1,0 +1,6 @@
+Observable Trends
+
+1. 
+The first observable trend can be seen on the 'Scores by School Spending' dataframe. The data indicates that, on average, the schools that have the smallest budget per student (<$584) perform better in all calculated statistics: Average Math Score, Average Reading Score, % Passing Math, % Passing Reading and % Overall Passing. This trend continues along the budget per student categories. The schools with the second lowest budget range ($585-629) perform second best in each catogory on average. They are followed by the second highest budget range ($630-644), with these schools performing third best in each category, on average. FInally, the school with the highest budget range per student ($645-675) performed the worst across each category on average. 
+
+
