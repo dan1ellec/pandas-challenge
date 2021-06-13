@@ -13,7 +13,7 @@ To help the school district board and mayor make strategic decisions regarding f
 - Pandas
 
 
-## Final Report
+## Report Outline
 
 ### District Summary
 
